@@ -1,0 +1,4 @@
+__pycache__/
+.env
+*.pyc
+results/raw_mock_*.jsonl
