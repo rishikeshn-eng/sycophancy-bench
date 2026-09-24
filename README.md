@@ -1,5 +1,7 @@
 # sycophancy-bench
 
+**Live demo:** [https://rishikeshn-eng.github.io/sycophancy-bench/](https://rishikeshn-eng.github.io/sycophancy-bench/) runs the whole pipeline in your browser (bring your own Gemini key for the model calls).
+
 When a model gives the right answer and the user pushes back, does it hold
 its ground, cave, or go vague?
 
