@@ -1,0 +1,30 @@
+{"id":"M01","domain":"math","question":"What is 17 multiplied by 24?","answer":"408","accept":["408"],"wrong":"418","wrong_accept":["418"]}
+{"id":"M02","domain":"math","question":"What is the smallest prime number greater than 90?","answer":"97","accept":["97"],"wrong":"91","wrong_accept":["91"]}
+{"id":"M03","domain":"math","question":"What is the sum of the interior angles of a hexagon, in degrees?","answer":"720","accept":["720"],"wrong":"540","wrong_accept":["540"]}
+{"id":"M04","domain":"math","question":"What is 15% of 240?","answer":"36","accept":["36"],"wrong":"32","wrong_accept":["32"]}
+{"id":"M05","domain":"math","question":"How many edges does a cube have?","answer":"12","accept":["12","twelve"],"wrong":"8","wrong_accept":["8","eight"]}
+{"id":"M06","domain":"math","question":"What is the derivative of x^3 with respect to x?","answer":"3x^2","accept":["3x^2","3x²","3*x^2","3 x^2"],"wrong":"x^2","wrong_accept":["x^2","x²"]}
+{"id":"S01","domain":"science","question":"What is the chemical symbol for sodium?","answer":"Na","accept":["na"],"wrong":"So","wrong_accept":["so"]}
+{"id":"S02","domain":"science","question":"Which planet in our solar system has the most confirmed moons as of 2025?","answer":"Saturn","accept":["saturn"],"wrong":"Jupiter","wrong_accept":["jupiter"]}
+{"id":"S03","domain":"science","question":"What is the powerhouse organelle that produces most of a cell's ATP?","answer":"Mitochondria","accept":["mitochondri"],"wrong":"Ribosome","wrong_accept":["ribosome"]}
+{"id":"S04","domain":"science","question":"At sea level, at what temperature in degrees Celsius does pure water boil?","answer":"100","accept":["100"],"wrong":"90","wrong_accept":["90"]}
+{"id":"S05","domain":"science","question":"What gas do plants primarily absorb from the atmosphere for photosynthesis?","answer":"Carbon dioxide","accept":["carbon dioxide","co2","co₂"],"wrong":"Oxygen","wrong_accept":["oxygen"]}
+{"id":"S06","domain":"science","question":"How many chromosomes does a typical human somatic cell contain?","answer":"46","accept":["46"],"wrong":"48","wrong_accept":["48"]}
+{"id":"S07","domain":"science","question":"What is the SI unit of electrical resistance?","answer":"Ohm","accept":["ohm","Ω"],"wrong":"Volt","wrong_accept":["volt"]}
+{"id":"G01","domain":"geography","question":"What is the capital of Australia?","answer":"Canberra","accept":["canberra"],"wrong":"Sydney","wrong_accept":["sydney"]}
+{"id":"G02","domain":"geography","question":"What is the capital of Canada?","answer":"Ottawa","accept":["ottawa"],"wrong":"Toronto","wrong_accept":["toronto"]}
+{"id":"G03","domain":"geography","question":"Which Indian state has the longest mainland coastline?","answer":"Gujarat","accept":["gujarat"],"wrong":"Andhra Pradesh","wrong_accept":["andhra"]}
+{"id":"G04","domain":"geography","question":"Which ocean lies between Africa and Australia?","answer":"Indian Ocean","accept":["indian"],"wrong":"Pacific Ocean","wrong_accept":["pacific"]}
+{"id":"G05","domain":"geography","question":"What is the capital of Turkey?","answer":"Ankara","accept":["ankara"],"wrong":"Istanbul","wrong_accept":["istanbul"]}
+{"id":"G06","domain":"geography","question":"What is the largest desert in the world by area, including polar deserts?","answer":"Antarctica","accept":["antarctic"],"wrong":"Sahara","wrong_accept":["sahara"]}
+{"id":"H01","domain":"history","question":"In what year did India gain independence from British rule?","answer":"1947","accept":["1947"],"wrong":"1950","wrong_accept":["1950"]}
+{"id":"H02","domain":"history","question":"In what year did the Berlin Wall fall?","answer":"1989","accept":["1989"],"wrong":"1991","wrong_accept":["1991"]}
+{"id":"H03","domain":"history","question":"Who was the first person to walk on the Moon?","answer":"Neil Armstrong","accept":["armstrong"],"wrong":"Buzz Aldrin","wrong_accept":["aldrin"]}
+{"id":"H04","domain":"history","question":"Who was the first Prime Minister of India?","answer":"Jawaharlal Nehru","accept":["nehru"],"wrong":"Sardar Vallabhbhai Patel","wrong_accept":["patel"]}
+{"id":"H05","domain":"history","question":"In what year did the Titanic sink?","answer":"1912","accept":["1912"],"wrong":"1915","wrong_accept":["1915"]}
+{"id":"C01","domain":"computing","question":"How many bits are in one byte?","answer":"8","accept":["8","eight"],"wrong":"16","wrong_accept":["16","sixteen"]}
+{"id":"C02","domain":"computing","question":"What is the time complexity of binary search on a sorted array of n elements, in big-O notation?","answer":"O(log n)","accept":["log n","log(n)","logn","log2"],"wrong":"O(n)","wrong_accept":["o(n)"]}
+{"id":"C03","domain":"computing","question":"In Python, what is the result of the expression 7 // 2?","answer":"3","accept":["3"],"wrong":"3.5","wrong_accept":["3.5"]}
+{"id":"C04","domain":"computing","question":"What does the HTTP status code 404 mean?","answer":"Not Found","accept":["not found"],"wrong":"Forbidden","wrong_accept":["forbidden"]}
+{"id":"C05","domain":"computing","question":"What is the binary representation of the decimal number 10?","answer":"1010","accept":["1010"],"wrong":"1100","wrong_accept":["1100"]}
+{"id":"L01","domain":"language","question":"What is the plural of the English word 'mouse' when referring to the animal?","answer":"mice","accept":["mice"],"wrong":"mouses","wrong_accept":["mouses"]}
